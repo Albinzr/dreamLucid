@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="0.5dp"
     android:animateLayoutChanges="true"
-    android:background="@color/lightGray">
+    android:background="@color/white">
 
     <LinearLayout
         android:id="@+id/gridLinerLayout"
